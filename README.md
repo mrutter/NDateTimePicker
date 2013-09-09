@@ -8,4 +8,6 @@ NDateTimePicker simply inherits from System.Windows.Forms.DateTimePicker enablin
 
 It also exposes some useful properties such as: IsNull/IsNotNull (to check if the value is null before trying to read it) and ValueAsNullable (which allows direct access to the Value property casted to a Nullable(Of DateTime)/Nullable?).
 
+I also included a project to show the user control usage (see NDateTimePickerTest).
+
 Have fun with it.
