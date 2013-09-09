@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NDateTimePicker", "NDateTimePicker\NDateTimePicker.vbproj", "{198F821A-DB5F-4A8A-B45C-8C758E548E47}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NDateTimePickerTest", "NDateTimePickerTest\NDateTimePickerTest.vbproj", "{1DCAC513-73CA-48BA-A7C2-E99D53946474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198F821A-DB5F-4A8A-B45C-8C758E548E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198F821A-DB5F-4A8A-B45C-8C758E548E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198F821A-DB5F-4A8A-B45C-8C758E548E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198F821A-DB5F-4A8A-B45C-8C758E548E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCAC513-73CA-48BA-A7C2-E99D53946474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCAC513-73CA-48BA-A7C2-E99D53946474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCAC513-73CA-48BA-A7C2-E99D53946474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCAC513-73CA-48BA-A7C2-E99D53946474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
